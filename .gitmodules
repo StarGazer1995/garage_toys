@@ -1,0 +1,3 @@
+[submodule "applications/voice_assistant"]
+	path = applications/voice_assistant
+	url = https://github.com/linyiLYi/voice-assistant.git
