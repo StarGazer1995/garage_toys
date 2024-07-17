@@ -1,3 +1,7 @@
 [submodule "applications/voice_assistant"]
 	path = applications/voice_assistant
 	url = git@github.com:StarGazer1995/voice-assistant.git
+
+[submodule "llama.cpp"]
+	path = llama
+	url = git@github.com:StarGazer1995/llama.cpp.git
